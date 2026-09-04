@@ -1,6 +1,5 @@
-
 <!--
-**FlyingSlippers/FlyingSlippers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ken-JN/Ken-JN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left">🔥    My Stats :</h3>
 
 ###
 
@@ -70,16 +69,16 @@ Here are some ideas to get you started:
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/FlyingSlippers/FlyingSlippers/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/FlyingSlippers/FlyingSlippers/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Ken-JN/Ken-JN/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Ken-JN/Ken-JN/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlyingSlippers/FlyingSlippers/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlyingSlippers/FlyingSlippers/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FlyingSlippers/FlyingSlippers/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ken-JN/Ken-JN/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ken-JN/Ken-JN/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ken-JN/Ken-JN/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
