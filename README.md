@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ###
 
 <p data-importer="text" align="left">
-### 💻 Software Engineering Student | 🎮 Game Developer Wannabe<br><br>Welcome to my GitHub! I am a Software Engineer Student game development student currently learning the ropes of game design, programming, and mechanics. I use this space to host my course projects, game jam entries, and personal prototypes.<br><br>- 📚 I'm currently learning Game Development, Website, and Application<br>- ⚡ In my free time I learn how to code and make a games</p>
+### 💻 Software Engineering Student | 🎮 Game Developer <br><br>Welcome to my GitHub! I am a Software Engineer Student game development student currently learning the ropes of game design, programming, and mechanics. I use this space to host my course projects, game jam entries, and personal prototypes.<br><br>- 📚 I'm currently learning Game Development, Website, and Application<br>- ⚡ In my free time I learn how to code and make a games</p>
 
 ###
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=FlyingSlippers&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ken-JN&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
