@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 
 ###
 
+<p align="center"> <img src="logo.svg" alt="Game programmer banner" width="100%"/> </p> <h1 align="center">👾 Hi, I'm YOUR_NAME 👾</h1> <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4ADE80&center=true&vCenter=true&width=520&lines=Game+Programmer;Gameplay+%26+Systems+Dev;Turning+coffee+into+game+loops" alt="Typing SVG" /></a> </p>
+
 <div data-importer="socials" align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
