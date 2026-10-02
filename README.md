@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="Game programmer banner" width="100%"/>
+  <img src="banner.svg" alt="Ken - Game Developer banner" width="100%"/>
 </p>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Ken</h1>
@@ -63,6 +63,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-kenzie-javas-niscala-533733426/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="40" />
   </a>
 </p>
 
